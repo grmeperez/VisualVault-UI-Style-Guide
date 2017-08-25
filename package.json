@@ -1,0 +1,11 @@
+{
+  "name": "visualvault_ui_style_guide",
+  "version": "1.0.0",
+  "description": "Markup and Styles for VisualVault Online Document Application.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Perez, eric.perez@visualvault.com",
+  "license": "ISC"
+}
